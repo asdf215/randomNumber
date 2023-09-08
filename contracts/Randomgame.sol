@@ -5,3 +5,5 @@ contract Random {
     event paidAddress(address indexed sender, uint256 payment);
     event winnerAddress(address indexed winner);
 }
+
+//tewtew
